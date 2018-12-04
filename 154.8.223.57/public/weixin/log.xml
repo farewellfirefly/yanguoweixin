@@ -1,0 +1,32 @@
+11:40:48 R <xml><ToUserName><![CDATA[gh_3a615a89e80f]]></ToUserName>
+<FromUserName><![CDATA[oNqiv5x7MeAEVmySRw1vni9ToSWM]]></FromUserName>
+<CreateTime>1543808448</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[成都天气]]></Content>
+<MsgId>6630606795867071048</MsgId>
+</xml>
+11:40:48 T <xml>
+        <ToUserName><![CDATA[oNqiv5x7MeAEVmySRw1vni9ToSWM]]></ToUserName>
+        <FromUserName><![CDATA[gh_3a615a89e80f]]></FromUserName>
+        <CreateTime>1543808448</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[成都市的天气情况：
+今天天气:晴
+最高温度:高温 15.0℃
+最低温度:低温 9.0℃
+]]></Content>
+        </xml>
+11:43:38 R <xml><ToUserName><![CDATA[gh_3a615a89e80f]]></ToUserName>
+<FromUserName><![CDATA[oNqiv503ryUhzaGSLmF4n4tZ4zJA]]></FromUserName>
+<CreateTime>1543808618</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+11:43:38 T <xml>
+        <ToUserName><![CDATA[oNqiv503ryUhzaGSLmF4n4tZ4zJA]]></ToUserName>
+        <FromUserName><![CDATA[gh_3a615a89e80f]]></FromUserName>
+        <CreateTime>1543808618</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[欢迎关注我的公众号，回复“北京天气”可查北京天气]]></Content>
+        </xml>
