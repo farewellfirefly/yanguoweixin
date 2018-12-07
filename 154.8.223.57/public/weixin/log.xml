@@ -30,3 +30,17 @@
         <MsgType><![CDATA[text]]></MsgType>
         <Content><![CDATA[欢迎关注我的公众号，回复“北京天气”可查北京天气]]></Content>
         </xml>
+11:01:00 R <xml><ToUserName><![CDATA[gh_3a615a89e80f]]></ToUserName>
+<FromUserName><![CDATA[oNqiv5wFn3DD5Q5hVRQ4SibsnfkQ]]></FromUserName>
+<CreateTime>1543892460</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6630967624659542603</MsgId>
+</xml>
+11:01:00 T <xml>
+        <ToUserName><![CDATA[oNqiv5wFn3DD5Q5hVRQ4SibsnfkQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_3a615a89e80f]]></FromUserName>
+        <CreateTime>1543892460</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[可怜的程序听不懂，要不试试这个网址？http://154.8.223.57/Weather/ ，最好访问原网页（略微智障的公众号）]]></Content>
+        </xml>
