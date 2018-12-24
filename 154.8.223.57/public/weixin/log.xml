@@ -1,46 +1,56 @@
-11:40:48 R <xml><ToUserName><![CDATA[gh_3a615a89e80f]]></ToUserName>
-<FromUserName><![CDATA[oNqiv5x7MeAEVmySRw1vni9ToSWM]]></FromUserName>
-<CreateTime>1543808448</CreateTime>
+20:19:19 R <xml><ToUserName><![CDATA[gh_439f0746ff41]]></ToUserName>
+<FromUserName><![CDATA[oumSC0Y4_OrBlwCKpCOY0u8S_kbI]]></FromUserName>
+<CreateTime>1544185159</CreateTime>
 <MsgType><![CDATA[text]]></MsgType>
-<Content><![CDATA[成都天气]]></Content>
-<MsgId>6630606795867071048</MsgId>
+<Content><![CDATA[ https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx4ffe828b9abc68f5&redirect_uri=http://154.8.223.57/weixin/Oauth.php&response_type=code&scope=snsapi_userinfo&state=123#wechat_redirect]]></Content>
+<MsgId>6632224757303686705</MsgId>
 </xml>
-11:40:48 T <xml>
-        <ToUserName><![CDATA[oNqiv5x7MeAEVmySRw1vni9ToSWM]]></ToUserName>
-        <FromUserName><![CDATA[gh_3a615a89e80f]]></FromUserName>
-        <CreateTime>1543808448</CreateTime>
+20:19:19 T <xml>
+        <ToUserName><![CDATA[oumSC0Y4_OrBlwCKpCOY0u8S_kbI]]></ToUserName>
+        <FromUserName><![CDATA[gh_439f0746ff41]]></FromUserName>
+        <CreateTime>1544185159</CreateTime>
         <MsgType><![CDATA[text]]></MsgType>
-        <Content><![CDATA[成都市的天气情况：
-今天天气:晴
-最高温度:高温 15.0℃
-最低温度:低温 9.0℃
-]]></Content>
+        <Content><![CDATA[可怜的程序听不懂，要不试试这个网址？http://154.8.223.57/Weather/ ，最好访问原网页（略微智障的公众号）]]></Content>
         </xml>
-11:43:38 R <xml><ToUserName><![CDATA[gh_3a615a89e80f]]></ToUserName>
-<FromUserName><![CDATA[oNqiv503ryUhzaGSLmF4n4tZ4zJA]]></FromUserName>
-<CreateTime>1543808618</CreateTime>
-<MsgType><![CDATA[event]]></MsgType>
-<Event><![CDATA[subscribe]]></Event>
-<EventKey><![CDATA[]]></EventKey>
-</xml>
-11:43:38 T <xml>
-        <ToUserName><![CDATA[oNqiv503ryUhzaGSLmF4n4tZ4zJA]]></ToUserName>
-        <FromUserName><![CDATA[gh_3a615a89e80f]]></FromUserName>
-        <CreateTime>1543808618</CreateTime>
-        <MsgType><![CDATA[text]]></MsgType>
-        <Content><![CDATA[欢迎关注我的公众号，回复“北京天气”可查北京天气]]></Content>
-        </xml>
-11:01:00 R <xml><ToUserName><![CDATA[gh_3a615a89e80f]]></ToUserName>
+14:07:11 R <xml><ToUserName><![CDATA[gh_3a615a89e80f]]></ToUserName>
 <FromUserName><![CDATA[oNqiv5wFn3DD5Q5hVRQ4SibsnfkQ]]></FromUserName>
-<CreateTime>1543892460</CreateTime>
+<CreateTime>1544940430</CreateTime>
 <MsgType><![CDATA[text]]></MsgType>
 <Content><![CDATA[1]]></Content>
-<MsgId>6630967624659542603</MsgId>
+<MsgId>6635468621536731727</MsgId>
 </xml>
-11:01:00 T <xml>
+14:07:11 T <xml>
         <ToUserName><![CDATA[oNqiv5wFn3DD5Q5hVRQ4SibsnfkQ]]></ToUserName>
         <FromUserName><![CDATA[gh_3a615a89e80f]]></FromUserName>
-        <CreateTime>1543892460</CreateTime>
+        <CreateTime>1544940431</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[可怜的程序听不懂，要不试试这个网址？http://154.8.223.57/Weather/ ，最好访问原网页（略微智障的公众号）]]></Content>
+        </xml>
+23:13:36 R <xml><ToUserName><![CDATA[gh_439f0746ff41]]></ToUserName>
+<FromUserName><![CDATA[oumSC0Y4_OrBlwCKpCOY0u8S_kbI]]></FromUserName>
+<CreateTime>1544973216</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://154.8.223.57/weixin/jssdk/sample.php]]></Content>
+<MsgId>6635609436346070579</MsgId>
+</xml>
+23:13:36 T <xml>
+        <ToUserName><![CDATA[oumSC0Y4_OrBlwCKpCOY0u8S_kbI]]></ToUserName>
+        <FromUserName><![CDATA[gh_439f0746ff41]]></FromUserName>
+        <CreateTime>1544973216</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[可怜的程序听不懂，要不试试这个网址？http://154.8.223.57/Weather/ ，最好访问原网页（略微智障的公众号）]]></Content>
+        </xml>
+23:19:26 R <xml><ToUserName><![CDATA[gh_439f0746ff41]]></ToUserName>
+<FromUserName><![CDATA[oumSC0Y4_OrBlwCKpCOY0u8S_kbI]]></FromUserName>
+<CreateTime>1544973565</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://154.8.223.57/weixin/jssdk/sample.php]]></Content>
+<MsgId>6635610935289656885</MsgId>
+</xml>
+23:19:26 T <xml>
+        <ToUserName><![CDATA[oumSC0Y4_OrBlwCKpCOY0u8S_kbI]]></ToUserName>
+        <FromUserName><![CDATA[gh_439f0746ff41]]></FromUserName>
+        <CreateTime>1544973566</CreateTime>
         <MsgType><![CDATA[text]]></MsgType>
         <Content><![CDATA[可怜的程序听不懂，要不试试这个网址？http://154.8.223.57/Weather/ ，最好访问原网页（略微智障的公众号）]]></Content>
         </xml>
